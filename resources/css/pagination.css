@@ -1,0 +1,14 @@
+
+.page-item {
+background-color: #17a2b8;
+
+    ;
+}
+.active {
+    color: #fff!important;
+    background: #007bff;
+    background-color: #03a9f4!important;
+    padding: 1px 2px;
+    display: inline-block;
+    color: #fff;
+}
